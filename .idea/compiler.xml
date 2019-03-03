@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="hello-java" />
         <module name="hellojava" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hello-java" target="1.8" />
       <module name="hellojava" target="1.8" />
     </bytecodeTargetLevel>
   </component>

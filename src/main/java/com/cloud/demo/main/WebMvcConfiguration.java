@@ -1,4 +1,4 @@
-package demo.main;
+package com.cloud.demo.main;
 
 import com.alibaba.fastjson.parser.Feature;
 import com.alibaba.fastjson.serializer.SerializerFeature;

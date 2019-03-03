@@ -1,4 +1,4 @@
-package demo.main;
+package com.cloud.demo.main;
 
 public class Main {
 

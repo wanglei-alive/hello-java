@@ -1,4 +1,4 @@
-package demo.main;
+package com.cloud.demo.main;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;

@@ -1,4 +1,4 @@
-package demo.main;
+package com.cloud.demo.main;
 
 import org.eclipse.jetty.server.HttpConnectionFactory;
 import org.eclipse.jetty.server.Server;
